@@ -236,7 +236,7 @@ on:
         type: choice
         options:
           - ophub
-          - angel
+          - bwnqx
 
 env:
   TZ: America/New_York
